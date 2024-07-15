@@ -12,15 +12,15 @@ let firstCard = false;
 let secondCard = false;
 
 const items = [
-    { name: "apple", image: "fruit/apple.png" },
-    { name: "mango", image: "fruit/mango.png" },
-    { name: "grape", image: "fruit/grape.png" },
-    { name: "banana", image: "fruit/banana.png" },
-    { name: "blueberry", image: "fruit/blueberry.png" },
-    { name: "cherries", image: "fruit/cherries.png" },
-    { name: "lemon", image: "fruit/lemon.png" },
-    { name: "strawberry", image: "fruit/strawberry.png" },
-    { name: "watermelon", image: "fruit/watermelon.png" },
+    { name: "apple", image: "apple.png" },
+    { name: "mango", image: "mango.png" },
+    { name: "grape", image: "grape.png" },
+    { name: "banana", image: "banana.png" },
+    { name: "blueberry", image: "blueberry.png" },
+    { name: "cherries", image: "cherries.png" },
+    { name: "lemon", image: "lemon.png" },
+    { name: "strawberry", image: "strawberry.png" },
+    { name: "watermelon", image: "watermelon.png" },
 ];
 
 let seconds = 0,
